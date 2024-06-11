@@ -11,7 +11,8 @@ def python1(x,y,z):
     var1 = 'the '
     var2 = 'actual '
     var3 = 'fuck\n'
-    sum = x + y + z
-    return (var0 +var1 +var2 +var3) * sum
+    mysum = x + y + z
+    return (var0 +var1 +var2 +var3) * mysum
 
 print(python1(1,2,3))
+ 
