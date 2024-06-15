@@ -6,7 +6,8 @@ Third Python Dabble
 - User Input
 """
 
-def python3(d,e,f):
+
+def python3(d, e, f):
     x = d
     y = e
     z = f
@@ -30,4 +31,5 @@ def python3(d,e,f):
 
         return print(msg + score)
 
-print(str(python3(54,16,10)) + '. Hope Roulette went well.')
+
+print(str(python3(54, 16, 10)) + '. Hope Roulette went well.')
