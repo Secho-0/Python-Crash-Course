@@ -2,6 +2,7 @@
 
 from car import Car
 
+
 class Battery():
     """A simple attempt to model a battery for an electric car."""
 
